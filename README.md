@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deryakarl
 - 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently working on Quantum Cryptography , AI , ML Implementaion NISQ era
-- 💞️ I’m looking to collaborate mostly reseach projects open to discover Quantum Computing,Cryptography, AI and QML especially BioTech and Security of Applications.
+- 🌱 I’m currently working on Quantum Cryptography , AI , QML Implementaion NISQ era
+- 💞️ I’m looking to collaborate early-reseach projects open to discover Quantum Computing advantages in Cryptography, AI and QML, BioTech and Security.
 - 📫 How to reach me d.deryakarli@gmail.com
 
 <!---
