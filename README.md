@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deryakarl
-- 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently working on Quantum Cryptography , AI , QML Implementaion NISQ era
-- 💞️ I’m looking to collaborate early-reseach projects open to discover Quantum Computing advantages in Cryptography, AI and QML, BioTech and Security.
+- 👀 I’m interested in Quantum Computing (QNIZK), Zero Knowledge Proofs and Privacy 
+- 🌱 I’m currently working on Zero Knowledge Poofs, p2p PRIVATE token transfer protocol
+- 💞️ I’m building Privacy Solutions focused on DeFi,Proof of Personhood,and advocating on-chain Privacy!
 - 📫 How to reach me d.deryakarli@gmail.com
 
 <!---
