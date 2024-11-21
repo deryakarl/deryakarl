@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deryakarl
-- 👀 I’m deep in Quantum Computing (QNIZK, Certified Randomness)
-- Zero Knowledge Proofs,
-- Compliance and Privacy in DeFi
+- 👀 I’m deep in Quantum Computing (QML,QKD,QNIZK, Certified Randomness)
+- Programble Privacy(ZK/MPC/FHE/TEE)
+- Compliance and Privacy Apps in TradFi/DeFi
   
 
 <!---
