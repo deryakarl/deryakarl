@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @deryakarl
-- 👀 I’m deep in Quantum Computing (QML,QKD,QNIZK, Certified Randomness)
-- Programble Privacy(ZK/MPC/FHE/TEE)
-- Compliance and Privacy Apps in TradFi/DeFi
+- 👋 Hi, I’m @deryakarl Democratising Quantum AI
+- Building in Quantum Computing (QML,QKD,QNIZK, Certified Randomness)
+- Prev Programble Privacy and ZK Identity
+
   
 
 <!---
